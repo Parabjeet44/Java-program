@@ -1,4 +1,4 @@
-import java.util.*;
+
 public class recursion {
     public static void printFact(int n,int fact){
         if(n==0){
